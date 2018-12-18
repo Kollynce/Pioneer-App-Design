@@ -1,6 +1,6 @@
 # code_clan
 
-A new Flutter project.
+This is a design for a school registration app
 
 ## Getting Started
 
